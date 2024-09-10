@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukriti777&label=Profile%20views&color=0e75b6&style=flat" alt="sukriti777" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sukriti35659215" target="blank"><img src="https://img.shields.io/twitter/follow/sukriti35659215?logo=twitter&style=for-the-badge" alt="sukriti35659215" /></a> </p>
-
 - 👨‍💻 All of my projects are available at https://github.com/Sukriti777
 
 - 📝 I regularly write articles on [https://medium.com/@sukritiv664](https://medium.com/@sukritiv664)
